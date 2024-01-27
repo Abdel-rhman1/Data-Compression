@@ -1,4 +1,4 @@
 # Data-Compression
 
-in this repo there compression algorithms
+in this repo there are compression algorithms
 -----------------------------------------
